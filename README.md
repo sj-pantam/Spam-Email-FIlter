@@ -10,4 +10,4 @@ To compile/build the entire program, enter: python filter.py
 
 ## Credit
 
-I have to give credit to Dr. Chen Qian for implementation of load_data() and project in general.
+I have to give credit to Dr. Chen Qian for implementation of load_data() and program in general.
